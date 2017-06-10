@@ -12,3 +12,9 @@ console.log(kolor);
 console.log(wiek);
 
 imie = "Sergio";
+
+imie = imieDamskie;
+
+console.log(imie);
+console.log(kolor);
+console.log(wiek);
